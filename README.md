@@ -1,1 +1,2 @@
-# ui_templates
+# Collection of UI Templates
+HTML & CSS
